@@ -5,8 +5,7 @@ apt-get update
 pkg upgrade
 pkg install python
 pkg install nano
-pkg install mosquitto (if it says ‘package not found’ issue ‘pkg update’ again and then try again)
-pkg install nodejs
+pkg install mosquitto
 pkg install openssh
 pkg install termux-api
 apt install make
